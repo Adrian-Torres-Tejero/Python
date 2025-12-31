@@ -1,7 +1,7 @@
 # Python
 ![Logo de JavaScript](https://imgs.search.brave.com/035VGjn0RgjXJWfzLvXH_vnuvFpVCcbl1zM_GukencM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4z/ZC5pY29uc2NvdXQu/Y29tLzNkL2ZyZWUv/dGh1bWIvZnJlZS1w/eXRob24tM2QtaWNv/bi1wbmctZG93bmxv/YWQtNTMyNjM4NS5w/bmc)
 ## Descripción
-### Este ejercicio Es el juego wordle, consiste en adivinar una palabra secreta en un numero de intentos y cuando se terminan los intentos o el usuario acierta la palabra el juego finaliza y el programa muestra el resultado de la partida
+### Este ejercicio es el juego wordle, consiste en adivinar una palabra secreta en un numero de intentos y cuando se terminan los intentos o el usuario acierta la palabra el juego finaliza y el programa muestra el resultado de la partida
 ---
 ### EjercicioWorlde.py
 ```python
